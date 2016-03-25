@@ -70,4 +70,12 @@ Avaliação com base nos [requisitos] (https://github.com/gdgmaceio/AndroidStudy
     * Utilizar Itent **OK**
     * Utilizar Variáveis **OK**
     * Utilizar Imagens **OK**
+    * 
+
+* Bruno Georgevich [ IBill ](https://github.com/BrunoGeorgevich/AndroidStudyJam/tree/master/IBill)
+    * Utilizar ViewGroups **OK**
+    * Mínimo de quatro interações com o usuário **OK**
+    * Utilizar Itent **OK**
+    * Utilizar Variáveis **OK**
+    * Utilizar Imagens **OK**
 
